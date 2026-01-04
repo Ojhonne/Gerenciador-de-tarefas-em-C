@@ -1,0 +1,18 @@
+# Ignorar executáveis do Windows
+*.exe
+*.dll
+
+# Ignorar executáveis do Linux/Mac (sem extensão)
+gerenciadoDeTarefas
+
+# Ignorar objetos de compilação
+*.o
+*.obj
+
+# Ignorar arquivo de banco de dados (suas tarefas pessoais)
+*.bin
+*.dat
+
+# Ignorar arquivos temporários do VS Code ou sistema
+.vscode/
+.DS_Store
